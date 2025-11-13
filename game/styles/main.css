@@ -221,6 +221,9 @@ body {
     font-size: 1.1rem;
     line-height: 1.8;
     min-height: 80px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
 }
 
 .continue-indicator {
