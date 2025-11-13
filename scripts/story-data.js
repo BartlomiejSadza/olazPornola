@@ -35,15 +35,15 @@ const BACKGROUNDS = {
 };
 
 const CHARACTER_SPRITES = {
-  KINGA_NEUTRAL: "kinga.png",
-  KINGA_HAPPY: "kinga.png",
-  KINGA_SAD: "kinga.png",
-  KINGA_BLUSH: "kinga.png",
+  KINGA_NEUTRAL: "KINGA.png",
+  KINGA_HAPPY: "KINGA.png",
+  KINGA_SAD: "KINGA.png",
+  KINGA_BLUSH: "KINGA.png",
   JULIA_NEUTRAL: "julia.png",
   JULIA_CONFIDENT: "julia.png",
   ZOSIA_NEUTRAL: "zosia.png",
   ZOSIA_HAPPY: "zosia.png",
-  MACIEJ: "maciej.png",
+  MACIEJ: "MACIEJ.png",
 };
 
 // Main Story Structure - sceny ładowane z osobnych plików w folderze story/

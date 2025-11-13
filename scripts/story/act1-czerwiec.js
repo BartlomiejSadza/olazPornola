@@ -50,7 +50,7 @@ const ACT1_SCENES = {
     },
     dialogue: [
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "Maciek! Tutaj jesteś! Szukałam cię wszędzie!",
       },
     ],
@@ -72,7 +72,7 @@ const ACT1_SCENES = {
         text: "Cześć, Kinga. Przepraszam, zapomniałem o czasie...",
       },
       {
-        speaker: CHARACTERS.kingaA,
+        speaker: CHARACTERS.KINGA,
         text: "Typowe.",
       },
     ],
@@ -83,11 +83,11 @@ const ACT1_SCENES = {
     background: BACKGROUNDS.RYNEK,
     character: {
       left: CHARACTER_SPRITES.MACIEJ,
-      right: CHARACTER_SPRITES.kingaA_HAPPY,
+      right: CHARACTER_SPRITES.KINGA_HAPPY,
     },
     dialogue: [
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "No nic, najważniejsze że jesteś. Słuchaj, mam dla ciebie świetne wieści!",
       },
       {
@@ -95,7 +95,7 @@ const ACT1_SCENES = {
         text: "Tak? Co się stało?",
       },
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "Nasz startup dostał grant od miasta! 50 tysięcy złotych na rozwój!",
       },
     ],
@@ -125,11 +125,11 @@ const ACT1_SCENES = {
     },
     dialogue: [
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "No właśnie... chciałam zapytać...",
       },
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "Czy nie chciałbyś dołączyć? Jako tech lead? Moglibyśmy razem...",
       },
       {
@@ -192,11 +192,11 @@ const ACT1_SCENES = {
     },
     dialogue: [
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "Amsterdam? Wow... nie wiedziałam, że masz taką ofertę.",
       },
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "To... to naprawdę duża rzecz, Maciek.",
       },
       {
@@ -204,7 +204,7 @@ const ACT1_SCENES = {
         text: "Dlatego właśnie muszę to przemyśleć. Nie chcę podejmować pochopnych decyzji.",
       },
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "Rozumiem. Daj znać, jak się zdecydujesz, okej?",
       },
       {
@@ -223,7 +223,7 @@ const ACT1_SCENES = {
     },
     dialogue: [
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "Och... rozumiem.",
       },
       {
@@ -231,11 +231,11 @@ const ACT1_SCENES = {
         text: "Kinga próbuje ukryć rozczarowanie, ale widać, że ją to zabolało.",
       },
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "No cóż, myślałam że... nieważne.",
       },
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "Muszę lecieć. Pogadamy później, Maciek.",
       },
       {
@@ -257,7 +257,7 @@ const ACT1_SCENES = {
     },
     dialogue: [
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "Naprawdę?! Maciek, to byłoby niesamowite!",
       },
       {
@@ -265,7 +265,7 @@ const ACT1_SCENES = {
         text: "Kinga aż podskakuje z radości. Jej oczy błyszczą.",
       },
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "Wiesz, zawsze myślałam, że świetnie byśmy się uzupełniali. Ty z twoim tech background, ja z designem...",
       },
       {
@@ -273,7 +273,7 @@ const ACT1_SCENES = {
         text: "Dokładnie! To może być naprawdę coś wielkiego.",
       },
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "Spotkajmy się jutro i wszystko omówmy! Mam tyle pomysłów!",
       },
       {
@@ -303,7 +303,7 @@ const ACT1_SCENES = {
         text: "Wokół szum turystów, gołębie, uliczni muzykanci... ale my jesteśmy w naszym własnym świecie.",
       },
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "Maciek, ja...",
       },
       {
@@ -315,7 +315,7 @@ const ACT1_SCENES = {
         text: "Daj mi trochę czasu. To wszystko dzieje się tak szybko.",
       },
       {
-        speaker: CHARACTERS.Kinga,
+        speaker: CHARACTERS.KINGA,
         text: "Masz tyle czasu, ile potrzebujesz.",
       },
     ],
